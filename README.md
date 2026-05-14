@@ -42,7 +42,7 @@ Built a virtualized home lab environment using Oracle VirtualBox to practice net
 
 ---
 ## Screenshots
-<img width="1600" height="1257" alt="WhatsApp Image 2026-05-14 at 12 47 26 PM" src="https://github.com/user-attachments/assets/710fa3a4-0671-4f62-9248-b18efa058cab" />
+<img width="600" alt="WhatsApp Image 2026-05-14 at 12 47 26 PM" src="https://github.com/user-attachments/assets/710fa3a4-0671-4f62-9248-b18efa058cab" />
 
 <img width="1280" height="730" alt="WhatsApp Image 2026-05-14 at 12 47 27 PM" src="https://github.com/user-attachments/assets/14c7e70d-9bee-4c57-939a-dd996f7ee88d" />
 
